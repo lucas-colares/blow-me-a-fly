@@ -1,0 +1,356 @@
+CodeID,Rat,Phase,SpeciesID,Species,Sex,Precipitation,TempMax,TempMin,Season,Sunit,spPhase
+3e.1,E,bloat,CHA,Chrysomya_albiceps,F,2.2,16.51333333,25,spring,bloatE,bloatCHA
+4e.1,E,bloat,CHA,Chrysomya_albiceps,F,3.72,18.69,29.12,spring,bloatE,bloatCHA
+3e.2,E,bloat,CHA,Chrysomya_albiceps,F,2.2,16.51333333,25,spring,bloatE,bloatCHA
+4e.2,E,bloat,CHA,Chrysomya_albiceps,F,3.72,18.69,29.12,spring,bloatE,bloatCHA
+3e.3,E,bloat,LE,Lucilia_eximia,F,2.2,16.51333333,25,spring,bloatE,bloatLE
+4e.3,E,bloat,CHA,Chrysomya_albiceps,F,3.72,18.69,29.12,spring,bloatE,bloatCHA
+3e.4,E,bloat,HSD,Hemilucilia_semidiaphana,F,2.2,16.51333333,25,spring,bloatE,bloatHSD
+3e.5,E,bloat,HSD,Hemilucilia_semidiaphana,F,2.2,16.51333333,25,spring,bloatE,bloatHSD
+4e.5,E,bloat,LE,Lucilia_eximia,F,3.72,18.69,29.12,spring,bloatE,bloatLE
+3e.7,E,bloat,HSD,Hemilucilia_semidiaphana,F,2.2,16.51333333,25,spring,bloatE,bloatHSD
+10a1,A,active decay,CL,Calliphora_lopesi,F,5.533333333,14.86666667,25.48,winter,active decayA,active decayCL
+10a2,A,active decay,CL,Calliphora_lopesi,F,5.533333333,14.86666667,25.48,winter,active decayA,active decayCL
+10a3,A,active decay,CL,Calliphora_lopesi,F,5.533333333,14.86666667,25.48,winter,active decayA,active decayCL
+10a6,A,active decay,LE,Lucilia_eximia,F,5.533333333,14.86666667,25.48,winter,active decayA,active decayLE
+10d1,D,bloat,LE,Lucilia_eximia,F,5.533333333,14.86666667,25.48,winter,bloatD,bloatLE
+10g1,G,advance decay,CHA,Chrysomya_albiceps,F,3.725,19.4625,24.6,spring,advance decayG,advance decayCHA
+10g2,G,advance decay,CHA,Chrysomya_albiceps,F,3.725,19.4625,24.6,spring,advance decayG,advance decayCHA
+10g3,G,advance decay,CHA,Chrysomya_albiceps,F,3.725,19.4625,24.6,spring,advance decayG,advance decayCHA
+10h1,H,advance decay,CHA,Chrysomya_albiceps,F,3.725,19.4625,24.6,spring,advance decayH,advance decayCHA
+10h2,H,advance decay,CHA,Chrysomya_albiceps,F,3.725,19.4625,24.6,spring,advance decayH,advance decayCHA
+10h3,H,advance decay,CHA,Chrysomya_albiceps,F,3.725,19.4625,24.6,spring,advance decayH,advance decayCHA
+10p1,P,active decay,LE,Lucilia_eximia,M,4.04,7.84,12.6,fall,active decayP,active decayLE
+10p2,O,active decay,CHA,Chrysomya_albiceps,F,4.04,7.84,12.6,fall,active decayO,active decayCHA
+10p3,P,active decay,CHA,Chrysomya_albiceps,F,4.04,7.84,12.6,fall,active decayP,active decayCHA
+10p4,P,active decay,CHA,Chrysomya_albiceps,F,4.04,7.84,12.6,fall,active decayP,active decayCHA
+10r1,R,advance decay,CHA,Chrysomya_albiceps,F,4.04,7.84,12.6,fall,advance decayR,advance decayCHA
+10r2,R,advance decay,CHA,Chrysomya_albiceps,F,4.04,7.84,12.6,fall,advance decayR,advance decayCHA
+10r3,R,advance decay,CHA,Chrysomya_albiceps,F,4.04,7.84,12.6,fall,advance decayR,advance decayCHA
+11g1,G,dry,CHA,Chrysomya_albiceps,F,7.075,14.975,22.52,spring,dryG,dryCHA
+11g2,G,dry,CHA,Chrysomya_albiceps,F,7.075,14.975,22.52,spring,dryG,dryCHA
+11g3,G,dry,CHA,Chrysomya_albiceps,F,7.075,14.975,22.52,spring,dryG,dryCHA
+11n1,N,active decay,LE,Lucilia_eximia,F,4.95,7.925,11.8,fall,active decayN,active decayLE
+11p1,P,active decay,CHA,Chrysomya_albiceps,F,4.95,7.925,11.8,fall,active decayP,active decayCHA
+11p2,P,active decay,CHA,Chrysomya_albiceps,F,4.95,7.925,11.8,fall,active decayP,active decayCHA
+11r1,R,advance decay,CHA,Chrysomya_albiceps,F,4.95,7.925,11.8,fall,advance decayR,advance decayCHA
+11r2,R,advance decay,CHA,Chrysomya_albiceps,F,4.95,7.925,11.8,fall,advance decayR,advance decayCHA
+12b1,B,active decay,CL,Calliphora_lopesi,M,8.075,10.525,16.52,winter,active decayB,active decayCL
+12b2,B,active decay,CL,Calliphora_lopesi,M,8.075,10.525,16.52,winter,active decayB,active decayCL
+12g1,G,dry,CHA,Chrysomya_albiceps,F,7.15,15.125,22.88,spring,dryG,dryCHA
+12g2,G,dry,CHA,Chrysomya_albiceps,F,7.15,15.125,22.88,spring,dryG,dryCHA
+12p1,P,active decay,CHA,Chrysomya_albiceps,F,7.15,15.125,22.88,fall,active decayP,active decayCHA
+12p2,P,active decay,CHA,Chrysomya_albiceps,F,5.1,6.425,12.12,fall,active decayP,active decayCHA
+12p3,P,active decay,CHA,Chrysomya_albiceps,F,5.1,6.425,12.12,fall,active decayP,active decayCHA
+12r1,R,advance decay,CHA,Chrysomya_albiceps,F,5.1,6.425,12.12,fall,advance decayR,advance decayCHA
+12r2,R,advance decay,CHA,Chrysomya_albiceps,F,5.1,6.425,12.12,fall,advance decayR,advance decayCHA
+12r3,R,advance decay,CHA,Chrysomya_albiceps,F,5.1,6.425,12.12,fall,advance decayR,advance decayCHA
+13n1,N,active decay,CHA,Chrysomya_albiceps,M,3.75,8.3,13.64,fall,active decayN,active decayCHA
+13n2,N,active decay,LE,Lucilia_eximia,F,3.75,8.3,13.64,fall,active decayN,active decayLE
+13r1,R,advance decay,CHM,Chrysomya_megacephala,F,3.75,8.3,13.64,fall,advance decayR,advance decayCHM
+13r2,R,advance decay,CHA,Chrysomya_albiceps,F,3.75,8.3,13.64,fall,advance decayR,advance decayCHA
+13r3,R,advance decay,CHA,Chrysomya_albiceps,F,3.75,8.3,13.64,fall,advance decayR,advance decayCHA
+13r4,R,advance decay,CHA,Chrysomya_albiceps,F,3.75,8.3,13.64,fall,advance decayR,advance decayCHA
+14a2,A,advance decay,CL,Calliphora_lopesi,F,4.05,6.025,9,winter,advance decayA,advance decayCL
+14a3,A,advance decay,CL,Calliphora_lopesi,M,4.05,6.025,9,winter,advance decayA,advance decayCL
+14c2,C,advance decay,CHA,Chrysomya_albiceps,M,4.05,6.025,9,winter,advance decayC,advance decayCHA
+14c4,C,advance decay,CHA,Chrysomya_albiceps,F,4.05,6.025,9,winter,advance decayC,advance decayCHA
+14r2,R,advance decay,CHA,Chrysomya_albiceps,F,6.6,9.85,18.68,fall,advance decayR,advance decayCHA
+14r3,R,advance decay,CHA,Chrysomya_albiceps,F,6.6,9.85,18.68,fall,advance decayR,advance decayCHA
+15a2,A,advance decay,CL,Calliphora_lopesi,F,4.25,4.75,9.72,winter,advance decayA,advance decayCL
+15b1,B,advance decay,CL,Calliphora_lopesi,F,4.25,4.75,9.72,winter,advance decayB,advance decayCL
+15b2,B,advance decay,CL,Calliphora_lopesi,M,4.25,4.75,9.72,winter,advance decayB,advance decayCL
+15b3,B,advance decay,CL,Calliphora_lopesi,M,4.25,4.75,9.72,winter,advance decayB,advance decayCL
+15n1,N,active decay,CHA,Chrysomya_albiceps,F,5.32,13.26,19.8,fall,active decayN,active decayCHA
+15p1,P,active decay,CHM,Chrysomya_megacephala,M,5.32,13.26,19.8,fall,active decayP,active decayCHM
+15p2,P,active decay,CHA,Chrysomya_albiceps,F,5.32,13.26,19.8,fall,active decayP,active decayCHA
+15r1,R,advance decay,CHA,Chrysomya_albiceps,F,5.32,13.26,19.8,fall,advance decayR,advance decayCHA
+15r2,R,advance decay,CHA,Chrysomya_albiceps,F,5.32,13.26,19.8,fall,advance decayR,advance decayCHA
+15r3,R,advance decay,CHA,Chrysomya_albiceps,M,5.32,13.26,19.8,fall,advance decayR,advance decayCHA
+16a2,A,advance decay,CL,Calliphora_lopesi,F,3.333333333,5.583333333,12,winter,advance decayA,advance decayCL
+16a3,A,advance decay,CL,Calliphora_lopesi,M,3.333333333,5.583333333,12,winter,advance decayA,advance decayCL
+16b2,B,advance decay,CL,Calliphora_lopesi,M,3.333333333,5.583333333,12,winter,advance decayB,advance decayCL
+16b4,B,advance decay,HSD,Hemilucilia_semidiaphana,F,3.333333333,5.583333333,12,winter,advance decayB,advance decayHSD
+16g1,G,dry,CHA,Chrysomya_albiceps,F,7.95,16.3,24.64,spring,dryG,dryCHA
+16h1,H,dry,CHA,Chrysomya_albiceps,F,7.95,16.3,24.64,spring,dryH,dryCHA
+16h2,H,dry,CHA,Chrysomya_albiceps,M,7.95,16.3,24.64,spring,dryH,dryCHA
+16r1,R,advance decay,LE,Lucilia_eximia,F,6.3,13.05,20.4,fall,advance decayR,advance decayLE
+17a1,A,advance decay,CL,Calliphora_lopesi,F,6.3,13.05,20.4,winter,advance decayA,advance decayCL
+17a3,A,advance decay,CL,Calliphora_lopesi,M,6.25,8.15,16.8,winter,advance decayA,advance decayCL
+17a4,A,advance decay,HSG,Hemilucilia_segmentaria,M,6.25,8.15,16.8,winter,advance decayA,advance decayHSG
+17p1,P,advance decay,LE,Lucilia_eximia,M,9.75,15.375,23.04,fall,advance decayP,advance decayLE
+18a1,A,advance decay,CL,Calliphora_lopesi,F,9.75,15.375,23.04,winter,advance decayA,advance decayCL
+18a2,A,advance decay,CL,Calliphora_lopesi,M,32.35,13.75,20.4,winter,advance decayA,advance decayCL
+18a3,A,advance decay,CL,Calliphora_lopesi,M,32.35,13.75,20.4,winter,advance decayA,advance decayCL
+18b1,B,advance decay,CL,Calliphora_lopesi,M,32.35,13.75,20.4,winter,advance decayB,advance decayCL
+18b2,B,advance decay,HSD,Hemilucilia_semidiaphana,F,32.35,13.75,20.4,winter,advance decayB,advance decayHSD
+18b3,B,advance decay,CHA,Chrysomya_albiceps,F,32.35,13.75,20.4,winter,advance decayB,advance decayCHA
+1i1,I,fresh,LE,Lucilia_eximia,F,11.08571429,18.09880952,25.81142857,summer,freshI,freshLE
+1i3,I,fresh,LE,Lucilia_eximia,F,11.08571429,18.09880952,25.81142857,summer,freshI,freshLE
+1k2,K,fresh,HSD,Hemilucilia_semidiaphana,F,11.08571429,18.09880952,25.81142857,summer,freshK,freshHSD
+18p1,P,advance decay,CHA,Chrysomya_albiceps,M,6.9,13.925,21.52,fall,advance decayP,advance decayCHA
+1o1,O,fresh,LE,Lucilia_eximia,F,7.25,14.6,21.96,fall,freshO,freshLE
+1o2,O,fresh,LE,Lucilia_eximia,F,7.25,14.6,21.96,fall,freshO,freshLE
+21a2,A,advance decay,CL,Calliphora_lopesi,M,19.8,12.42,17.56,winter,advance decayA,advance decayCL
+21a3,A,advance decay,CL,Calliphora_lopesi,M,19.8,12.42,17.56,winter,advance decayA,advance decayCL
+21b1,B,advance decay,CL,Calliphora_lopesi,F,19.8,12.42,17.56,winter,advance decayB,advance decayCL
+21b2,B,advance decay,CL,Calliphora_lopesi,M,19.8,12.42,17.56,winter,advance decayB,advance decayCL
+21b3,B,advance decay,CL,Calliphora_lopesi,M,19.8,12.42,17.56,winter,advance decayB,advance decayCL
+21c1,C,advance decay,LE,Lucilia_eximia,F,19.8,12.42,17.56,winter,advance decayC,advance decayLE
+22a1,A,advance decay,CL,Calliphora_lopesi,F,4.28,11.66,17.56,winter,advance decayA,advance decayCL
+22a2,A,advance decay,CL,Calliphora_lopesi,M,4.28,11.66,17.56,winter,advance decayA,advance decayCL
+22a3,A,advance decay,CL,Calliphora_lopesi,F,4.28,11.66,17.56,winter,advance decayA,advance decayCL
+22b1,B,advance decay,CL,Calliphora_lopesi,M,4.28,11.66,17.56,winter,advance decayB,advance decayCL
+22b2,B,advance decay,CL,Calliphora_lopesi,M,4.28,11.66,17.56,winter,advance decayB,advance decayCL
+22b3,B,advance decay,CL,Calliphora_lopesi,M,4.28,11.66,17.56,winter,advance decayB,advance decayCL
+23a1,A,advance decay,CL,Calliphora_lopesi,F,11.775,18.68,73.25,winter,advance decayA,advance decayCL
+23a2,A,advance decay,CL,Calliphora_lopesi,F,11.775,18.68,73.25,winter,advance decayA,advance decayCL
+23b1,B,advance decay,CL,Calliphora_lopesi,M,11.775,18.68,73.25,winter,advance decayB,advance decayCL
+23b3,B,advance decay,CL,Calliphora_lopesi,M,11.775,18.68,73.25,winter,advance decayB,advance decayCL
+26a1,A,dry,CL,Calliphora_lopesi,F,5.6,13.56,20.52,winter,dryA,dryCL
+26a2,A,dry,CL,Calliphora_lopesi,F,5.6,13.56,20.52,winter,dryA,dryCL
+26a3,A,dry,CL,Calliphora_lopesi,M,5.6,13.56,20.52,winter,dryA,dryCL
+26b1,B,dry,CL,Calliphora_lopesi,M,5.6,13.56,20.52,winter,dryB,dryCL
+28a1,A,dry,CL,Calliphora_lopesi,M,9.6,12.6,17.68,winter,dryA,dryCL
+28b1,B,dry,CL,Calliphora_lopesi,F,9.6,12.6,17.68,winter,dryB,dryCL
+2g1,G,bloat,LE,Lucilia_eximia,F,7.7,15.625,23.96,spring,bloatG,bloatLE
+2g2,G,bloat,LE,Lucilia_eximia,F,7.7,15.625,23.96,spring,bloatG,bloatLE
+2i2,I,bloat,LE,Lucilia_eximia,F,2.45,19.89166667,23.96,summer,bloatI,bloatLE
+2i3,I,bloat,LE,Lucilia_eximia,F,2.45,19.89166667,23.96,summer,bloatI,bloatLE
+2i5,I,bloat,HSD,Hemilucilia_semidiaphana,F,2.45,19.89166667,23.96,summer,bloatI,bloatHSD
+2k1,K,bloat,CHA,Chrysomya_albiceps,F,2.45,19.89166667,23.96,summer,bloatK,bloatCHA
+2k10,K,bloat,HSD,Hemilucilia_semidiaphana,F,2.45,19.89166667,23.96,summer,bloatK,bloatHSD
+2k2,K,bloat,CHA,Chrysomya_albiceps,F,2.45,19.89166667,23.96,summer,bloatK,bloatCHA
+2k3,K,bloat,CHA,Chrysomya_albiceps,F,2.45,19.89166667,23.96,summer,bloatK,bloatCHA
+2k6,K,bloat,LE,Lucilia_eximia,F,2.45,19.89166667,23.96,summer,bloatK,bloatLE
+2k7,K,bloat,LE,Lucilia_eximia,F,2.45,19.89166667,23.96,summer,bloatK,bloatLE
+2k9,K,bloat,HSD,Hemilucilia_semidiaphana,F,2.45,19.89166667,23.96,summer,bloatK,bloatHSD
+2l1,L,bloat,LE,Lucilia_eximia,F,2.45,19.89166667,23.96,summer,bloatL,bloatLE
+2l12,L,bloat,CHA,Chrysomya_albiceps,F,2.45,19.89166667,23.96,summer,bloatL,bloatCHA
+2l15,L,bloat,CHA,Chrysomya_albiceps,F,2.45,19.89166667,23.96,summer,bloatL,bloatCHA
+2l16,L,bloat,CHA,Chrysomya_albiceps,F,2.45,19.89166667,23.96,summer,bloatL,bloatCHA
+2l2,L,bloat,LE,Lucilia_eximia,F,2.45,19.89166667,23.96,summer,bloatL,bloatLE
+2l3,L,bloat,LE,Lucilia_eximia,F,2.45,19.89166667,23.96,summer,bloatL,bloatLE
+2l4,L,bloat,HSD,Hemilucilia_semidiaphana,F,2.45,19.89166667,23.96,summer,bloatL,bloatHSD
+2l5,L,bloat,HSD,Hemilucilia_semidiaphana,F,2.45,19.89166667,23.96,summer,bloatL,bloatHSD
+2l6,L,bloat,HSD,Hemilucilia_semidiaphana,F,2.45,19.89166667,23.96,summer,bloatL,bloatHSD
+2m1,M,bloat,LE,Lucilia_eximia,F,2.45,19.89166667,23.96,summer,bloatM,bloatLE
+2m10,M,bloat,CHA,Chrysomya_albiceps,F,2.45,19.89166667,23.96,summer,bloatM,bloatCHA
+2m14,M,bloat,LE,Lucilia_eximia,F,2.45,19.89166667,23.96,summer,bloatM,bloatLE
+2m3,M,bloat,LE,Lucilia_eximia,F,2.45,19.89166667,23.96,summer,bloatM,bloatLE
+2m7,M,bloat,CHA,Chrysomya_albiceps,F,2.45,19.89166667,23.96,summer,bloatM,bloatCHA
+2m8,M,bloat,CHA,Chrysomya_albiceps,F,2.45,19.89166667,23.96,summer,bloatM,bloatCHA
+1o3,O,fresh,LE,Lucilia_eximia,F,7.25,14.6,21.96,fall,freshO,freshLE
+2n1,N,fresh,LE,Lucilia_eximia,F,7.375238095,15.24076191,22.33,fall,freshN,freshLE
+2n2,N,fresh,LE,Lucilia_eximia,F,7.375238095,15.24076191,22.33,fall,freshN,freshLE
+2o2,O,bloat,LE,Lucilia_eximia,F,7.375238095,15.24076191,22.33,fall,bloatO,bloatLE
+2o3,O,bloat,LE,Lucilia_eximia,F,7.375238095,15.24076191,22.33,fall,bloatO,bloatLE
+2p1,P,bloat,LE,Lucilia_eximia,F,7.375238095,15.24076191,22.33,fall,bloatP,bloatLE
+2p2,P,bloat,LE,Lucilia_eximia,F,7.375238095,15.24076191,22.33,fall,bloatP,bloatLE
+3f1,F,bloat,LE,Lucilia_eximia,F,2.2,16.51333333,25,spring,bloatF,bloatLE
+3f2,F,bloat,HSD,Hemilucilia_semidiaphana,F,2.2,16.51333333,25,spring,bloatF,bloatHSD
+3g1,G,bloat,LE,Lucilia_eximia,F,2.2,16.51333333,25,spring,bloatG,bloatLE
+3g2,G,bloat,LE,Lucilia_eximia,F,2.2,16.51333333,25,spring,bloatG,bloatLE
+3g3,G,bloat,CM,Cochliomya_macellaria,F,2.2,16.51333333,25,spring,bloatG,bloatCM
+3g4,G,bloat,CHA,Chrysomya_albiceps,F,2.2,16.51333333,25,spring,bloatG,bloatCHA
+3g5,G,bloat,CHA,Chrysomya_albiceps,F,2.2,16.51333333,25,spring,bloatG,bloatCHA
+3g6,G,bloat,CHA,Chrysomya_albiceps,F,2.2,16.51333333,25,spring,bloatG,bloatCHA
+3h1,H,bloat,CHP,Chrysomya_putoria,F,2.2,16.51333333,25,spring,bloatH,bloatCHP
+3h2,H,bloat,HSD,Hemilucilia_semidiaphana,F,2.2,16.51333333,25,spring,bloatH,bloatHSD
+3h3,H,bloat,HSD,Hemilucilia_semidiaphana,F,2.2,16.51333333,25,spring,bloatH,bloatHSD
+3i2,I,bloat,CHA,Chrysomya_albiceps,F,2.4,19.31666667,23.12,summer,bloatI,bloatCHA
+3k2,K,bloat,LE,Lucilia_eximia,M,2.4,19.31666667,23.12,summer,bloatK,bloatLE
+3k3,K,bloat,LE,Lucilia_eximia,F,2.4,19.31666667,23.12,summer,bloatK,bloatLE
+3l1,L,bloat,CHM,Chrysomya_megacephala,F,2.4,19.31666667,23.12,summer,bloatL,bloatCHM
+3l3,L,bloat,SC,Sarconesia,F,2.4,19.31666667,23.12,summer,bloatL,bloatSC
+3m1,M,bloat,CHM,Chrysomya_megacephala,F,2.4,19.31666667,23.12,summer,bloatM,bloatCHM
+3m12,M,bloat,CHA,Chrysomya_albiceps,F,2.4,19.31666667,23.12,summer,bloatM,bloatCHA
+3m13,M,bloat,CHA,Chrysomya_albiceps,F,2.4,19.31666667,23.12,summer,bloatM,bloatCHA
+3m2,M,bloat,CHM,Chrysomya_megacephala,F,2.4,19.31666667,23.12,summer,bloatM,bloatCHM
+3m29,M,bloat,CHA,Chrysomya_albiceps,F,2.4,19.31666667,23.12,summer,bloatM,bloatCHA
+3n1,N,bloat,LE,Lucilia_eximia,F,2.184615385,18.13076923,23.32,fall,bloatN,bloatLE
+3n3,N,bloat,LE,Lucilia_eximia,F,2.184615385,18.13076923,23.32,fall,bloatN,bloatLE
+3n5,N,bloat,CHA,Chrysomya_albiceps,F,2.184615385,18.13076923,23.32,fall,bloatN,bloatCHA
+3n6,N,bloat,CHA,Chrysomya_albiceps,F,2.184615385,18.13076923,23.32,fall,bloatN,bloatCHA
+3o1,O,bloat,HSG,Hemilucilia_segmentaria,F,2.184615385,18.13076923,23.32,fall,bloatO,bloatHSG
+3o2,O,bloat,PX,Paralucilia_xantho,F,2.184615385,18.13076923,23.32,fall,bloatO,bloatPX
+3o3,O,bloat,CHA,Chrysomya_albiceps,F,2.184615385,18.13076923,23.32,fall,bloatO,bloatCHA
+3o4,O,bloat,CHA,Chrysomya_albiceps,F,2.184615385,18.13076923,23.32,fall,bloatO,bloatCHA
+3o5,O,bloat,LE,Lucilia_eximia,F,2.184615385,18.13076923,23.32,fall,bloatO,bloatLE
+3o6,O,bloat,LE,Lucilia_eximia,F,2.184615385,18.13076923,23.32,fall,bloatO,bloatLE
+3o7,O,bloat,LE,Lucilia_eximia,F,2.184615385,18.13076923,23.32,fall,bloatO,bloatLE
+3p1,P,bloat,CM,Cochliomya_macellaria,F,2.184615385,18.13076923,23.32,fall,bloatP,bloatCM
+3p2,P,bloat,CHA,Chrysomya_albiceps,F,2.184615385,18.13076923,23.32,fall,bloatP,bloatCHA
+3p4,P,bloat,LE,Lucilia_eximia,F,2.184615385,18.13076923,23.32,fall,bloatP,bloatLE
+3p5,P,bloat,LE,Lucilia_eximia,F,2.184615385,18.13076923,23.32,fall,bloatP,bloatLE
+3r1,R,bloat,CHA,Chrysomya_albiceps,F,2.184615385,18.13076923,23.32,fall,bloatR,bloatCHA
+3r2,R,bloat,CHA,Chrysomya_albiceps,F,2.184615385,18.13076923,23.32,fall,bloatR,bloatCHA
+3r3,R,bloat,CHA,Chrysomya_albiceps,F,2.184615385,18.13076923,23.32,fall,bloatR,bloatCHA
+3r4,R,bloat,LE,Lucilia_eximia,F,2.184615385,18.13076923,23.32,fall,bloatR,bloatLE
+3r5,R,bloat,LE,Lucilia_eximia,F,2.184615385,18.13076923,23.32,fall,bloatR,bloatLE
+4i1,I,active decay,CHA,Chrysomya_albiceps,F,3.444444444,16.94444444,23.96,summer,active decayI,active decayCHA
+4i2,I,active decay,CHA,Chrysomya_albiceps,F,3.444444444,16.94444444,23.96,summer,active decayI,active decayCHA
+4i3,I,active decay,CHA,Chrysomya_albiceps,M,3.444444444,16.94444444,23.96,summer,active decayI,active decayCHA
+4i4,I,active decay,LE,Lucilia_eximia,F,3.444444444,16.94444444,23.96,summer,active decayI,active decayLE
+4i5,I,active decay,LE,Lucilia_eximia,M,3.444444444,16.94444444,23.96,summer,active decayI,active decayLE
+4i6,I,active decay,HSD,Hemilucilia_semidiaphana,F,3.444444444,16.94444444,23.96,summer,active decayI,active decayHSD
+4i9,I,active decay,HSD,Hemilucilia_semidiaphana,M,3.444444444,16.94444444,23.96,summer,active decayI,active decayHSD
+4k1,K,active decay,CHA,Chrysomya_albiceps,M,3.444444444,16.94444444,23.96,summer,active decayK,active decayCHA
+4k2,K,active decay,HSD,Hemilucilia_semidiaphana,F,3.444444444,16.94444444,23.96,summer,active decayK,active decayHSD
+4l2,L,active decay,CHA,Chrysomya_albiceps,F,3.444444444,16.94444444,23.96,summer,active decayL,active decayCHA
+4l21,L,active decay,CHM,Chrysomya_megacephala,M,3.444444444,16.94444444,23.96,summer,active decayL,active decayCHM
+4l22,L,active decay,CHM,Chrysomya_megacephala,F,3.444444444,16.94444444,23.96,summer,active decayL,active decayCHM
+4l4,L,active decay,CHA,Chrysomya_albiceps,F,3.444444444,16.94444444,23.96,summer,active decayL,active decayCHA
+4l5,L,active decay,CHA,Chrysomya_albiceps,F,3.444444444,16.94444444,23.96,summer,active decayL,active decayCHA
+4m4,M,active decay,CHA,Chrysomya_albiceps,F,3.444444444,16.94444444,23.96,summer,active decayM,active decayCHA
+4m6,M,active decay,CHA,Chrysomya_albiceps,F,3.444444444,16.94444444,23.96,summer,active decayM,active decayCHA
+4m7,M,active decay,CHA,Chrysomya_albiceps,F,3.444444444,16.94444444,23.96,summer,active decayM,active decayCHA
+3r6,R,bloat,LE,Lucilia_eximia,F,2.184615385,18.13076923,23.32,fall,bloatR,bloatLE
+4n2,N,bloat,LE,Lucilia_eximia,F,15.44,15.1,19.48,fall,bloatN,bloatLE
+4p1,P,bloat,LE,Lucilia_eximia,F,15.44,15.1,19.48,fall,bloatP,bloatLE
+4p2,P,bloat,LE,Lucilia_eximia,F,15.44,15.1,19.48,fall,bloatP,bloatLE
+4p3,P,bloat,LE,Lucilia_eximia,F,15.44,15.1,19.48,fall,bloatP,bloatLE
+4r1,R,active decay,CHA,Chrysomya_albiceps,F,15.44,15.1,19.48,fall,active decayR,active decayCHA
+5g1,G,active decay,CHA,Chrysomya_albiceps,F,5.171428571,20.14285714,27.24,spring,active decayG,active decayCHA
+5g2,G,active decay,CHA,Chrysomya_albiceps,F,5.171428571,20.14285714,27.24,spring,active decayG,active decayCHA
+5g3,G,active decay,CHA,Chrysomya_albiceps,F,5.171428571,20.14285714,27.24,spring,active decayG,active decayCHA
+5g6,G,active decay,CHM,Chrysomya_megacephala,F,5.171428571,20.14285714,27.24,spring,active decayG,active decayCHM
+5g7,G,active decay,CHM,Chrysomya_megacephala,M,5.171428571,20.14285714,27.24,spring,active decayG,active decayCHM
+5h1,H,active decay,CHA,Chrysomya_albiceps,F,5.171428571,20.14285714,27.24,spring,active decayH,active decayCHA
+5h3,H,active decay,CHA,Chrysomya_albiceps,F,5.171428571,20.14285714,27.24,spring,active decayH,active decayCHA
+5h4,H,active decay,CHA,Chrysomya_albiceps,M,5.171428571,20.14285714,27.24,spring,active decayH,active decayCHA
+5h5,H,active decay,CHM,Chrysomya_megacephala,F,5.171428571,20.14285714,27.24,spring,active decayH,active decayCHM
+5i1,I,active decay,CHA,Chrysomya_albiceps,F,6.36,19.68,25.84,summer,active decayI,active decayCHA
+5k1,K,active decay,CHP,Chrysomya_putoria,F,6.36,19.68,25.84,summer,active decayK,active decayCHP
+5m1,M,active decay,CHA,Chrysomya_albiceps,F,6.36,19.68,25.84,summer,active decayM,active decayCHA
+5m2,M,active decay,CHA,Chrysomya_albiceps,F,6.36,19.68,25.84,summer,active decayM,active decayCHA
+5m3,M,active decay,CHA,Chrysomya_albiceps,F,6.36,19.68,25.84,summer,active decayM,active decayCHA
+4r2,R,active decay,CHA,Chrysomya_albiceps,F,15.44,15.1,19.48,fall,active decayR,active decayCHA
+4r4,R,active decay,LE,Lucilia_eximia,F,15.44,15.1,19.48,fall,active decayR,active decayLE
+5n1,N,active decay,LE,Lucilia_eximia,M,2.511111111,13.96666667,18.52,fall,active decayN,active decayLE
+5n2,N,active decay,CHA,Chrysomya_albiceps,F,2.511111111,13.96666667,18.52,fall,active decayN,active decayCHA
+5p2,P,active decay,HSG,Hemilucilia_segmentaria,M,2.511111111,13.96666667,18.52,fall,active decayP,active decayHSG
+5r2,R,active decay,LE,Lucilia_eximia,F,2.511111111,13.96666667,18.52,fall,active decayR,active decayLE
+5r3,R,active decay,LE,Lucilia_eximia,F,2.511111111,13.96666667,18.52,fall,active decayR,active decayLE
+6a1,A,bloat,LE,Lucilia_eximia,F,3.371428571,10.05714286,15.72,winter,bloatA,bloatLE
+6a2,A,bloat,LE,Lucilia_eximia,F,3.371428571,10.05714286,15.72,winter,bloatA,bloatLE
+6a3,A,bloat,LE,Lucilia_eximia,F,3.371428571,10.05714286,15.72,winter,bloatA,bloatLE
+6b1,B,bloat,LE,Lucilia_eximia,F,3.371428571,10.05714286,15.72,winter,bloatB,bloatLE
+6b2,B,bloat,LE,Lucilia_eximia,F,3.371428571,10.05714286,15.72,winter,bloatB,bloatLE
+6b3,B,bloat,LE,Lucilia_eximia,F,3.371428571,10.05714286,15.72,winter,bloatB,bloatLE
+6c1,C,bloat,LE,Lucilia_eximia,F,3.371428571,10.05714286,15.72,winter,bloatC,bloatLE
+6c3,C,bloat,LE,Lucilia_eximia,F,3.371428571,10.05714286,15.72,winter,bloatC,bloatLE
+6d1,D,bloat,SC,Sarconesia,F,3.371428571,10.05714286,15.72,winter,bloatD,bloatSC
+6d2,D,bloat,CL,Calliphora_lopesi,F,3.371428571,10.05714286,15.72,winter,bloatD,bloatCL
+6d3,D,bloat,CL,Calliphora_lopesi,F,3.371428571,10.05714286,15.72,winter,bloatD,bloatCL
+6d4,D,bloat,LE,Lucilia_eximia,F,3.371428571,10.05714286,15.72,winter,bloatD,bloatLE
+6d6,D,bloat,LE,Lucilia_eximia,F,3.371428571,10.05714286,15.72,winter,bloatD,bloatLE
+6g1,G,active decay,HSD,Hemilucilia_semidiaphana,F,14.07692308,19.32307692,25,spring,active decayG,active decayHSD
+6g2,G,active decay,HSD,Hemilucilia_semidiaphana,F,14.07692308,19.32307692,25,spring,active decayG,active decayHSD
+6g3,G,active decay,HSD,Hemilucilia_semidiaphana,M,14.07692308,19.32307692,25,spring,active decayG,active decayHSD
+6g4,G,active decay,CHA,Chrysomya_albiceps,F,14.07692308,19.32307692,25,spring,active decayG,active decayCHA
+6g5,G,active decay,CHA,Chrysomya_albiceps,F,14.07692308,19.32307692,25,spring,active decayG,active decayCHA
+6g6,G,active decay,CHA,Chrysomya_albiceps,F,14.07692308,19.32307692,25,spring,active decayG,active decayCHA
+6g7,G,active decay,CHP,Chrysomya_putoria,M,14.07692308,19.32307692,25,spring,active decayG,active decayCHP
+6g8,G,active decay,CHP,Chrysomya_putoria,F,14.07692308,19.32307692,25,spring,active decayG,active decayCHP
+6g9,G,active decay,SC,Sarconesia,M,14.07692308,19.32307692,25,spring,active decayG,active decaySC
+6h1,H,active decay,CHA,Chrysomya_albiceps,F,14.07692308,19.32307692,25,spring,active decayH,active decayCHA
+6h2,H,active decay,CHA,Chrysomya_albiceps,F,14.07692308,19.32307692,25,spring,active decayH,active decayCHA
+6h3,H,active decay,CHA,Chrysomya_albiceps,F,14.07692308,19.32307692,25,spring,active decayH,active decayCHA
+6i3,I,active decay,HSD,Hemilucilia_semidiaphana,M,5.055767196,18.91401058,24.49777778,summer,active decayI,active decayHSD
+6k1,K,active decay,CHA,Chrysomya_albiceps,M,5.055767196,18.91401058,24.49777778,summer,active decayK,active decayCHA
+6k2,K,active decay,CHA,Chrysomya_albiceps,M,5.055767196,18.91401058,24.49777778,summer,active decayK,active decayCHA
+6k3,K,active decay,HSD,Hemilucilia_semidiaphana,M,5.055767196,18.91401058,24.49777778,summer,active decayK,active decayHSD
+6l10,L,active decay,CHA,Chrysomya_albiceps,F,5.055767196,18.91401058,24.49777778,summer,active decayL,active decayCHA
+6l11,L,active decay,CHA,Chrysomya_albiceps,F,5.055767196,18.91401058,24.49777778,summer,active decayL,active decayCHA
+6l2,L,active decay,CHA,Chrysomya_albiceps,F,5.055767196,18.91401058,24.49777778,summer,active decayL,active decayCHA
+6m2,M,active decay,CHA,Chrysomya_albiceps,F,5.055767196,18.91401058,24.49777778,summer,active decayM,active decayCHA
+6m6,M,active decay,CHA,Chrysomya_albiceps,F,5.055767196,18.91401058,24.49777778,summer,active decayM,active decayCHA
+6m8,M,active decay,CHA,Chrysomya_albiceps,F,5.055767196,18.91401058,24.49777778,summer,active decayM,active decayCHA
+7a1,A,bloat,CL,Calliphora_lopesi,F,2.218181818,10.04545455,15.92,winter,bloatA,bloatCL
+7a2,A,bloat,LE,Lucilia_eximia,F,2.218181818,10.04545455,15.92,winter,bloatA,bloatLE
+7a3,A,bloat,HSD,Hemilucilia_semidiaphana,M,2.218181818,10.04545455,15.92,winter,bloatA,bloatHSD
+7b2,B,bloat,HSD,Hemilucilia_semidiaphana,F,2.218181818,10.04545455,15.92,winter,bloatB,bloatHSD
+7b3,B,bloat,LE,Lucilia_eximia,M,2.218181818,10.04545455,15.92,winter,bloatB,bloatLE
+7c1,C,bloat,HSD,Hemilucilia_semidiaphana,F,2.218181818,10.04545455,15.92,winter,bloatC,bloatHSD
+7c2,C,bloat,LE,Lucilia_eximia,M,2.218181818,10.04545455,15.92,winter,bloatC,bloatLE
+7d1,D,bloat,CL,Calliphora_lopesi,F,2.218181818,10.04545455,15.92,winter,bloatD,bloatCL
+7d2,D,bloat,LE,Lucilia_eximia,F,2.218181818,10.04545455,15.92,winter,bloatD,bloatLE
+7g1,G,advance decay,CHA,Chrysomya_albiceps,F,22.4,19.08571429,26.76,spring,advance decayG,advance decayCHA
+7g2,G,advance decay,CHA,Chrysomya_albiceps,F,22.4,19.08571429,26.76,spring,advance decayG,advance decayCHA
+7g3,G,advance decay,CHA,Chrysomya_albiceps,F,22.4,19.08571429,26.76,spring,advance decayG,advance decayCHA
+7g5,G,advance decay,LE,Lucilia_eximia,F,22.4,19.08571429,26.76,spring,advance decayG,advance decayLE
+7h1,H,advance decay,CHA,Chrysomya_albiceps,F,22.4,19.08571429,26.76,spring,advance decayH,advance decayCHA
+7h2,H,advance decay,CHA,Chrysomya_albiceps,F,22.4,19.08571429,26.76,spring,advance decayH,advance decayCHA
+7h3,H,advance decay,CHA,Chrysomya_albiceps,F,22.4,19.08571429,26.76,spring,advance decayH,advance decayCHA
+7k1,K,active decay,CHA,Chrysomya_albiceps,F,12.11019048,17.52860952,23.472,summer,active decayK,active decayCHA
+7k2,K,active decay,CHA,Chrysomya_albiceps,F,12.11019048,17.52860952,23.472,summer,active decayK,active decayCHA
+7k3,K,active decay,CHA,Chrysomya_albiceps,M,12.11019048,17.52860952,23.472,summer,active decayK,active decayCHA
+7l1,L,active decay,CHA,Chrysomya_albiceps,F,12.11019048,17.52860952,23.472,summer,active decayL,active decayCHA
+7l4,L,active decay,CHA,Chrysomya_albiceps,F,12.11019048,17.52860952,23.472,summer,active decayL,active decayCHA
+7l7,L,active decay,CHA,Chrysomya_albiceps,F,12.11019048,17.52860952,23.472,summer,active decayL,active decayCHA
+7m1,M,active decay,CHA,Chrysomya_albiceps,F,12.11019048,17.52860952,23.472,summer,active decayM,active decayCHA
+7m2,M,active decay,CHA,Chrysomya_albiceps,F,12.11019048,17.52860952,23.472,summer,active decayM,active decayCHA
+8a1,A,bloat,HSD,Hemilucilia_semidiaphana,F,2.169230769,13.60769231,18.12,winter,bloatA,bloatHSD
+8a2,A,bloat,HSD,Hemilucilia_semidiaphana,M,2.169230769,13.60769231,18.12,winter,bloatA,bloatHSD
+8a3,A,bloat,LE,Lucilia_eximia,M,2.169230769,13.60769231,18.12,winter,bloatA,bloatLE
+8a5,A,bloat,LE,Lucilia_eximia,M,2.169230769,13.60769231,18.12,winter,bloatA,bloatLE
+8b1,B,bloat,HSD,Hemilucilia_semidiaphana,F,2.169230769,13.60769231,18.12,winter,bloatB,bloatHSD
+8b2,B,bloat,CL,Calliphora_lopesi,F,2.169230769,13.60769231,18.12,winter,bloatB,bloatCL
+8b4,B,bloat,LE,Lucilia_eximia,F,2.169230769,13.60769231,18.12,winter,bloatB,bloatLE
+8b5,B,bloat,LE,Lucilia_eximia,F,2.169230769,13.60769231,18.12,winter,bloatB,bloatLE
+8c1,C,bloat,CL,Calliphora_lopesi,F,2.169230769,13.60769231,18.12,winter,bloatC,bloatCL
+8c3,C,bloat,CL,Calliphora_lopesi,M,2.169230769,13.60769231,18.12,winter,bloatC,bloatCL
+8c4,C,bloat,LS,Lucilia_sericata,F,2.169230769,13.60769231,18.12,winter,bloatC,bloatLS
+8d2,D,bloat,HSD,Hemilucilia_semidiaphana,F,2.169230769,13.60769231,18.12,winter,bloatD,bloatHSD
+8d3,D,bloat,CHA,Chrysomya_albiceps,M,2.169230769,13.60769231,18.12,winter,bloatD,bloatCHA
+8d4,D,bloat,CL,Calliphora_lopesi,F,2.169230769,13.60769231,18.12,winter,bloatD,bloatCL
+8d5,D,bloat,SC,Sarconesia,F,2.169230769,13.60769231,18.12,winter,bloatD,bloatSC
+8d6,D,bloat,LE,Lucilia_eximia,F,2.169230769,13.60769231,18.12,winter,bloatD,bloatLE
+8d7,D,bloat,LE,Lucilia_eximia,F,2.169230769,13.60769231,18.12,winter,bloatD,bloatLE
+8g1,G,advance decay,CHA,Chrysomya_albiceps,F,4.233333333,17.66666667,22.76,spring,advance decayG,advance decayCHA
+8g3,G,advance decay,CHA,Chrysomya_albiceps,F,4.233333333,17.66666667,22.76,spring,advance decayG,advance decayCHA
+8g4,G,advance decay,CHA,Chrysomya_albiceps,F,4.233333333,17.66666667,22.76,spring,advance decayG,advance decayCHA
+8g5,G,advance decay,HSD,Hemilucilia_semidiaphana,F,4.233333333,17.66666667,22.76,spring,advance decayG,advance decayHSD
+8g6,G,advance decay,LE,Lucilia_eximia,M,4.233333333,17.66666667,22.76,spring,advance decayG,advance decayLE
+8g7,G,advance decay,LE,Lucilia_eximia,F,4.233333333,17.66666667,22.76,spring,advance decayG,advance decayLE
+8h1,H,advance decay,CHA,Chrysomya_albiceps,F,4.233333333,17.66666667,22.76,spring,advance decayH,advance decayCHA
+8h2,H,advance decay,CHA,Chrysomya_albiceps,F,4.233333333,17.66666667,22.76,spring,advance decayH,advance decayCHA
+8h3,H,advance decay,CHA,Chrysomya_albiceps,F,4.233333333,17.66666667,22.76,spring,advance decayH,advance decayCHA
+8k1,K,active decay,CHA,Chrysomya_albiceps,F,9.237738095,15.36576191,22.48,summer,active decayK,active decayCHA
+8l1,L,active decay,CHA,Chrysomya_albiceps,M,9.237738095,15.36576191,22.48,summer,active decayL,active decayCHA
+8m1,M,active decay,CHA,Chrysomya_albiceps,M,9.237738095,15.36576191,22.48,summer,active decayM,active decayCHA
+5r7,R,active decay,CHA,Chrysomya_albiceps,F,2.511111111,13.96666667,18.52,fall,active decayR,active decayCHA
+9a1,A,bloat,LE,Lucilia_eximia,F,2.511111111,13.96666667,18.52,winter,bloatA,bloatLE
+9a2,A,bloat,LE,Lucilia_eximia,F,2.511111111,13.96666667,18.52,winter,bloatA,bloatLE
+9a3,A,bloat,LE,Lucilia_eximia,F,2.511111111,13.96666667,18.52,winter,bloatA,bloatLE
+9a4,A,bloat,CL,Calliphora_lopesi,F,3.525,11.7125,19.28,winter,bloatA,bloatCL
+9a5,A,bloat,CL,Calliphora_lopesi,F,3.525,11.7125,19.28,winter,bloatA,bloatCL
+9a6,A,bloat,CL,Calliphora_lopesi,F,3.525,11.7125,19.28,winter,bloatA,bloatCL
+9a7,A,bloat,HSD,Hemilucilia_semidiaphana,F,3.525,11.7125,19.28,winter,bloatA,bloatHSD
+9a8,A,bloat,HSD,Hemilucilia_semidiaphana,F,3.525,11.7125,19.28,winter,bloatA,bloatHSD
+9b1,B,bloat,CHA,Chrysomya_albiceps,F,3.525,11.7125,19.28,winter,bloatB,bloatCHA
+9b11,B,bloat,PX,Paralucilia_xantho,F,3.525,11.7125,19.28,winter,bloatB,bloatPX
+9b3,B,bloat,CHA,Chrysomya_albiceps,F,3.525,11.7125,19.28,winter,bloatB,bloatCHA
+9b5,B,bloat,HSD,Hemilucilia_semidiaphana,F,3.525,11.7125,19.28,winter,bloatB,bloatHSD
+9b6,B,bloat,HSD,Hemilucilia_semidiaphana,F,3.525,11.7125,19.28,winter,bloatB,bloatHSD
+9b8,B,bloat,HSD,Hemilucilia_semidiaphana,F,3.525,11.7125,19.28,winter,bloatB,bloatHSD
+9c2,C,active decay,HSD,Hemilucilia_semidiaphana,F,3.525,11.7125,19.28,winter,active decayC,active decayHSD
+9d1,D,bloat,CL,Calliphora_lopesi,F,3.525,11.7125,19.28,winter,bloatD,bloatCL
+9g2,G,advance decay,CHA,Chrysomya_albiceps,F,3.971428571,17.37142857,23.08,spring,advance decayG,advance decayCHA
+9g3,G,advance decay,CHA,Chrysomya_albiceps,F,3.971428571,17.37142857,23.08,spring,advance decayG,advance decayCHA
+9h1,H,advance decay,CHA,Chrysomya_albiceps,F,3.971428571,17.37142857,23.08,spring,advance decayH,advance decayCHA
+9h2,H,advance decay,CHA,Chrysomya_albiceps,F,3.971428571,17.37142857,23.08,spring,advance decayH,advance decayCHA
+9h3,H,advance decay,CHA,Chrysomya_albiceps,F,3.971428571,17.37142857,23.08,spring,advance decayH,advance decayCHA
+9i1,I,advance decay,CHA,Chrysomya_albiceps,F,15.3,13.15,22.96,summer,advance decayI,advance decayCHA
+9i2,I,advance decay,CHA,Chrysomya_albiceps,F,15.3,13.15,22.96,summer,advance decayI,advance decayCHA
+9m1,M,advance decay,CHA,Chrysomya_albiceps,F,15.3,13.15,22.96,summer,advance decayM,advance decayCHA
+5r8,R,active decay,CHA,Chrysomya_albiceps,F,2.511111111,13.96666667,18.52,fall,active decayR,active decayCHA
+8r1,R,active decay,LE,Lucilia_eximia,F,10.6,15.24,91.25,fall,active decayR,active decayLE
+9p1,P,active decay,CHA,Chrysomya_albiceps,F,3.92,8.78,13.08,fall,active decayP,active decayCHA
+9p2,P,active decay,LE,Lucilia_eximia,F,3.92,8.78,13.08,fall,active decayP,active decayLE
+9r1,R,active decay,CHA,Chrysomya_albiceps,F,3.92,8.78,13.08,fall,active decayR,active decayCHA
+9g4,G,advance decay,CHA,Chrysomya_albiceps,F,3.971428571,17.37142857,23.08,spring,advance decayG,advance decayCHA
+11a2,A,active decay,CL,Calliphora_lopesi,M,4.714285714,22.98571429,28.16,winter,active decayA,active decayCL
+1i2,I,fresh,LE,Lucilia_eximia,F,11.08571429,18.09880952,25.81142857,summer,freshI,freshLE
+4r3,R,active decay,LE,Lucilia_eximia,F,15.44,15.1,19.48,fall,active decayR,active decayLE
