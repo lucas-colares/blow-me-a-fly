@@ -31,7 +31,11 @@ To reproduce the analyses:
 1. **Prerequisites**: Ensure you have R installed on your system. Required R packages are specified within the script.
 
 2. **Running the Analysis**:
-   - Open `BlowflyAnalysis_Jan2023.R` in R or RStudio.
+   - Clone this repository:
+   ```bash  
+   git clone https://github.com/lucas-colares/blow-me-a-fly.git  
+   ``` 
+   - Open the downloaded folder, then open the `BlowflyAnalysis_Jan2023.R` script in R or RStudio.
    - Execute the script to perform the analyses and generate the graphs.
 
 ## License
