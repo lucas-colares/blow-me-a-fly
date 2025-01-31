@@ -1,6 +1,8 @@
-# Welcome to #BlowMeAFly repository
-A public repository to conduct the analysis and graphs from "Dispersal capacity regulates early arrival during ecological succession", by Colares et al. (2023). 
-Here, we provide tha data and R code to reproduce our analysis.
+![alt text](https://i.imgur.com/AGtNp4d.png)
+# BlowMeAFly repository 🪰🌳
+## Overview
+
+This repository contains the data and R code used in the study **"Changes in blowfly (Diptera: Calliphoridae) wing morphology during succession in rat carcasses across forest and grassland habitats in South Brazil"** by Colares et al. (2024). The study investigates the relationship between dispersal capacity and the timing of species arrival during ecological succession, focusing on carrion blowflies.
 
 # Data outline
 In this repository, you will find:
@@ -10,5 +12,34 @@ In this repository, you will find:
 ![alt text](https://i.imgur.com/nY4unsp.jpg)
 - An R code (BlowflyAnalysis_Jan2023.R) to reproduce our morphological and statistical analysis of traits and the graphs presented in the main paper and supporting information.
 
-# The paper
-Check all information regarding this data, including the methodological details in the paper "Dispersal capacity regulates early arrival during ecological succession". DOI: soon.
+## Repository Structure
+
+- **Data Files**:
+  - `wingFixed2.TPS`: Landmark data representing the wing shapes of 355 individual blowflies across 11 species.
+  - `toraxdorsalFixed2.TPS`: Landmark data representing the dorsal view of the thorax.
+  - `toraxlateralFixed2.TPS`: Landmark data representing the lateral view of the thorax.
+  - `Blow_Occ.csv`: Abundance data from 44 samples (rat carcasses) collected throughout the decomposition process.
+  - `specimenID.csv`: Metadata linking specimens to their respective data points.
+
+- **R Script**:
+  - `BlowflyAnalysis_Jan2023.R`: Contains the R code to reproduce the analyses and generate the graphs presented in the study.
+
+## Usage
+
+To reproduce the analyses:
+
+1. **Prerequisites**: Ensure you have R installed on your system. Required R packages are specified within the script.
+
+2. **Running the Analysis**:
+   - Open `BlowflyAnalysis_Jan2023.R` in R or RStudio.
+   - Execute the script to perform the analyses and generate the graphs.
+
+## License
+
+This project is licensed under the **MIT License**. You are free to use, modify, and distribute the code with proper attribution. 
+
+## Citation
+
+If you use this repository, please cite:
+
+Colares, L., Herdina, A., & Dambros, C. (2024). *Changes in blowfly (Diptera: Calliphoridae) wing morphology during succession in rat carcasses across forest and grassland habitats in South Brazil*. *Insect Science*. [https://doi.org/10.1111/1744-7917.13485](https://doi.org/10.1111/1744-7917.13485)
