@@ -42,4 +42,4 @@ This project is licensed under the **MIT License**. You are free to use, modify,
 
 If you use this repository, please cite:
 
-Colares, L., Herdina, A., & Dambros, C. (2024). *Changes in blowfly (Diptera: Calliphoridae) wing morphology during succession in rat carcasses across forest and grassland habitats in South Brazil*. *Insect Science*. [https://doi.org/10.1111/1744-7917.13485](https://doi.org/10.1111/1744-7917.13485)
+> Colares, L., Herdina, A., & Dambros, C. (2024). *Changes in blowfly (Diptera: Calliphoridae) wing morphology during succession in rat carcasses across forest and grassland habitats in South Brazil*. *Insect Science*. [https://doi.org/10.1111/1744-7917.13485](https://doi.org/10.1111/1744-7917.13485)
